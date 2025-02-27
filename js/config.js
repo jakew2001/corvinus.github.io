@@ -84,12 +84,7 @@ var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
-var l_musicPlaylist = [
-	{ogg: "songs/Star-Wars-The-Old-Republic-Theme-_Clash-of-Destiny_-EPIC-VERSION.ogg", name: "Star Wars Old Republic Theme"},
-	{youtube: "FhbqfEA3WlU", name: "Star Wars Old Republic Theme"},
-	{youtube: "FhbqfEA3WlU", name: "Star Wars Old Republic Theme"},
-	{youtube: "FhbqfEA3WlU", name: "Star Wars Old Republic Theme"}
-];
+var l_musicPlaylist = [];
 
 /*Random music order?*/
 var l_musicRandom = true;
